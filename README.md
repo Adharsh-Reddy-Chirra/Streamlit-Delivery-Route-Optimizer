@@ -57,9 +57,7 @@ app.py – Main Streamlit application code
 
 requirements.txt – Python dependencies
 
-dashboard_screenshot.png – (Optional) App preview image
-
-README.md – Project overview
+dashboard_screenshot
 
 # 🧠 Skills Demonstrated
 
