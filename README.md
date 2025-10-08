@@ -1,8 +1,8 @@
-🚚 Streamlit Delivery Route Optimizer
+# 🚚 Streamlit Delivery Route Optimizer
 
 This project features an interactive Delivery Route Optimization Dashboard built using Streamlit and Python, designed to help businesses minimize fuel costs and reduce total travel distance through intelligent route optimization.
 
-🔍 What It Does
+# 🔍 What It Does
 
 The app allows users to quickly estimate fuel cost savings achieved by optimizing delivery routes across multiple drivers.
 
@@ -16,7 +16,7 @@ It provides instant insights into:
 
 🚦 Operational Efficiency Metrics
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 The application uses a Greedy Routing Algorithm that assigns each delivery stop to the nearest available driver, minimizing the overall route distance.
 
@@ -28,7 +28,7 @@ It also includes:
 
 💵 Cost Savings Calculator based on user-input Fuel Price and Average MPG
 
-🧰 Tools & Technologies Used
+# 🧰 Tools & Technologies Used
 
 Python – Core programming language
 
@@ -38,13 +38,20 @@ geopy – Geocoding and distance calculation
 
 requests – API handling for geolocation lookups
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 Delivery Route Optimizer Dashboard
 
-(Include your app screenshot here once available)
+<img width="1706" height="873" alt="image" src="https://github.com/user-attachments/assets/a703956b-9cf3-4dfb-8d95-ff6c1463f537" />
 
-📂 Files Included
+
+<img width="1447" height="862" alt="image" src="https://github.com/user-attachments/assets/5fa9c99d-c85b-4c25-9fcc-4b7deff9b43f" />
+
+
+<img width="1511" height="846" alt="image" src="https://github.com/user-attachments/assets/f3159cd9-375c-4d5e-8597-d98a1575dd87" />
+
+
+# 📂 Files Included
 
 app.py – Main Streamlit application code
 
@@ -54,7 +61,7 @@ dashboard_screenshot.png – (Optional) App preview image
 
 README.md – Project overview
 
-🧠 Skills Demonstrated
+# 🧠 Skills Demonstrated
 
 Data Visualization using Streamlit
 
@@ -66,7 +73,7 @@ Analytical Thinking & ROI Estimation
 
 Building Zero-Cost Proof-of-Concept Apps
 
-📌 Use Case
+# 📌 Use Case
 
 This dashboard is ideal for:
 
@@ -78,7 +85,7 @@ This dashboard is ideal for:
 
 It serves as a zero-cost, quick-deployment prototype for organizations aiming to evaluate the financial benefits of optimized delivery routes before investing in enterprise routing solutions.
 
-🚀 How to Run the App
+# 🚀 How to Run the App
 
 1️⃣ Install Prerequisites
 Make sure Python 3.7+ is installed.
