@@ -91,3 +91,21 @@ It serves as a zero-cost, quick-deployment prototype for organizations aiming to
 Make sure Python 3.7+ is installed.
 
 2️⃣ Install Dependencies
+
+pip install streamlit geopy requests
+
+3️⃣ Run the App
+
+streamlit run app.py
+
+Your browser will automatically open the Delivery Route Optimizer Dashboard 🌍
+
+# 🗺️ Future Enhancements
+
+    🔁 Integration with Google Maps API or OpenRouteService for real-world routing
+
+    🧮 Incorporation of advanced optimization algorithms (e.g., OR-Tools, Genetic Algorithms)
+
+    🗂️ Exporting reports in CSV or PDF format
+
+    🗾 Interactive map visualization using folium
