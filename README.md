@@ -98,12 +98,3 @@ streamlit run app.py
 
 Your browser will automatically open the Delivery Route Optimizer Dashboard 🌍
 
-# 🗺️ Future Enhancements
-
-    🔁 Integration with Google Maps API or OpenRouteService for real-world routing
-
-    🧮 Incorporation of advanced optimization algorithms (e.g., OR-Tools, Genetic Algorithms)
-
-    🗂️ Exporting reports in CSV or PDF format
-
-    🗾 Interactive map visualization using folium
