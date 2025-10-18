@@ -39,16 +39,11 @@ geopy – Geocoding and distance calculation
 requests – API handling for geolocation lookups
 
 # 📸 Dashboard Preview
+link to the interactive Dashboard: https://shortest-route.streamlit.app/
 
 Delivery Route Optimizer Dashboard
 
 <img width="1706" height="873" alt="image" src="https://github.com/user-attachments/assets/a703956b-9cf3-4dfb-8d95-ff6c1463f537" />
-
-
-<img width="1447" height="862" alt="image" src="https://github.com/user-attachments/assets/5fa9c99d-c85b-4c25-9fcc-4b7deff9b43f" />
-
-
-<img width="1511" height="846" alt="image" src="https://github.com/user-attachments/assets/f3159cd9-375c-4d5e-8597-d98a1575dd87" />
 
 
 # 📂 Files Included
